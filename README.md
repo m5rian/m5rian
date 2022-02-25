@@ -6,4 +6,5 @@
 
 # 👋 Hey there!
 
+- ☕ Java / Kotlin dev (:
 - ✨ Developer of [Myra](https://myra.bot)
