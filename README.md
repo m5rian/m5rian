@@ -1,10 +1,18 @@
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1m5rian)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/marian5)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nG4uKuB)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mar._.ian/)
-[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/m5rian)
+# 👋 Hey there ![profile views](https://komarev.com/ghpvc/?username=m5rian&style=flat-square)
+I'm marian, an 18yo developer and designer from Germany.
 
-# 👋 Hey there!
+## ✨ My skills
+#### Programming languages
+![Programming languages](https://skillicons.dev/icons?i=kotlin,java,rust,js,ts)
+#### Tools
+![Programming languages](https://skillicons.dev/icons?i=svelte)
 
-- ☕ Java / Kotlin dev (:
-- ✨ Developer of [Myra](https://myra.bot)
+## 🚀 Projects
+<!-- other good theme: one_dark_pro -->
+[![diskord](https://github-readme-stats.vercel.app/api/pin/?username=MyraBot&repo=diskord&theme=github_dark_dimmed)](https://github.com/MyraBot/diskord)
+[![neuron network](https://github-readme-stats.vercel.app/api/pin/?username=m5rian&repo=neuron-network&theme=github_dark_dimmed)](https://github.com/m5rian/neuron-network)
+[![JDA command handler](https://github-readme-stats.vercel.app/api/pin/?username=m5rian&repo=jda-command-handler&theme=github_dark_dimmed)](https://github.com/m5rian/jda-command-handler)
+
+---
+
+[Discord](https://discord.gg/nG4uKuB) • [YouTube](https://www.youtube.com/@m5rian)
