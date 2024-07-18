@@ -1,5 +1,5 @@
 # 👋 Hey there ![profile views](https://komarev.com/ghpvc/?username=m5rian&style=flat-square)
-I'm marian, an 18yo developer and designer from Germany.
+I'm marian, a 18yo developer and designer from Germany.
 
 ## ✨ My skills
 #### Programming languages
