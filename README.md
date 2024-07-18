@@ -5,7 +5,7 @@ I'm marian, an 18yo developer and designer from Germany.
 #### Programming languages
 ![Programming languages](https://skillicons.dev/icons?i=kotlin,java,rust,js,ts)
 #### Tools
-![Programming languages](https://skillicons.dev/icons?i=svelte)
+![Programming languages](https://skillicons.dev/icons?i=svelte,mongo)
 
 ## 🚀 Projects
 <!-- other good theme: one_dark_pro -->
